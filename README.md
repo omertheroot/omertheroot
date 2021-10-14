@@ -1,0 +1,3 @@
+- 👉 Interested in Pentesting and IoT 
+- 🏫 Istanbul/Pendik Teknopark Istanbul Mesleki ve Teknik Anadolu Lisesi
+- 🕸 Web and Reversing is best for me
