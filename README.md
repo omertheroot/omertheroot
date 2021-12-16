@@ -6,3 +6,4 @@
 - [TryHackMe](https://tryhackme.com/p/omer1453) Profile 🐱‍💻
 - Suck at reverse engneering and scripting :/
 - Main word of my life: ``bruh``
+- [faruksonmez1453@gmail.com](mailto:faruksonmez1453@gmail.com)
